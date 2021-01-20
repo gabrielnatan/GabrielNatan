@@ -1,10 +1,10 @@
 
 <h1 width="100%;" text-align="center;">
-  <img width="100%;" src="./github.png" alt="Imagem de apresentação">
+  <img width="100%;" src="./github.gif" alt="Imagem de apresentação">
 </h1>
 
 
-Olá amigos tudo bem?! Seja bem vindo ao meu repositorio 😎
+Olá amigos, tudo bem?! Seja bem vindo ao meu repositório 😎
 
 ## Tecnologias
 
