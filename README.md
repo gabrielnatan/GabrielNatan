@@ -17,6 +17,11 @@ Olá amigos, tudo bem?! Seja bem vindo ao meu repositório 😎
 - Node JS
 
 
+## Meu Portfólio
+
+https://gabriel-natan.netlify.app/
+
+
 ### 📫 Entre em contato comigo:
 - <a href="https://www.linkedin.com/in/gabriel-souza-3985ba137/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"">
