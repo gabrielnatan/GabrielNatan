@@ -12,6 +12,8 @@ Olá amigos, tudo bem?! Seja bem vindo ao meu repositório 😎
 - HTML5
 - CSS3
 - JavaScript(ES6+)
+- JQuery
+- Bootstrap
 - React JS
 - React Native
 - Node JS
