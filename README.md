@@ -6,6 +6,11 @@
 
 Olá amigos, tudo bem?! Seja bem vindo ao meu repositório 😎
 
+## Sobre mim
+
+Como Desenvolvedor Full Stack Pleno, acumulo mais de 3 anos de experiência nesse universo. Sou formado em Análise e Desenvolvimento de Sistemas e tenho habilidades sólidas em tecnologias como React JS, NextJS, VueJS, NestJS, entre outras. Minha abordagem inclui a aplicação de boas práticas de código e arquitetura, como SOLID e Clean Architecture, e estou familiarizado com Design Patterns, Microserviços, TDD, CI/CD e DevOps. Meu objetivo é sempre entregar soluções tecnológicas inovadoras e escaláveis.
+
+
 ## Tecnologias
 
 Javascript, Typescript, React JS, Vue JS, Next JS, Node JS, Nest JS, PostgreSQL, MongoDB, SQL, GitHub Actions, GitLab, HTML, CSS.
