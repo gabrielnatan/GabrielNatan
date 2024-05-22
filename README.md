@@ -18,7 +18,7 @@ Javascript, Typescript, React JS, Vue JS, Next JS, Node JS, Nest JS, PostgreSQL,
 
 ## Meu Portfólio
 
-https://gabriel-natan.netlify.app/
+https://gabrielnatan.com.br
 
 
 ### 📫 Entre em contato comigo:
