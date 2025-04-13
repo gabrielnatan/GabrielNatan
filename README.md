@@ -6,7 +6,7 @@ Olá, amigos! Seja muito bem-vindo ao meu repositório 😎
 
 ## Sobre Mim
 
-Sou Desenvolvedor Full Stack Pleno com mais de 3 anos de experiência, sempre buscando transformar ideias em soluções tecnológicas inovadoras. Formado em Análise e Desenvolvimento de Sistemas, trabalho com um conjunto diversificado de tecnologias e práticas modernas, como React JS, NextJS, VueJS, NestJS, além de abordagens voltadas a DevOps e metodologias ágeis. Adoto princípios sólidos como SOLID, Clean Architecture, Design Patterns, Microserviços, TDD e CI/CD, garantindo que meus projetos sejam escaláveis, robustos e de alta qualidade.
+Sou Desenvolvedor Full Stack Pleno com mais de 4 anos de experiência, sempre buscando transformar ideias em soluções tecnológicas inovadoras. Formado em Análise e Desenvolvimento de Sistemas, trabalho com um conjunto diversificado de tecnologias e práticas modernas, como React JS, NextJS, VueJS, NestJS, além de abordagens voltadas a DevOps e metodologias ágeis. Adoto princípios sólidos como SOLID, Clean Architecture, Design Patterns, Microserviços, TDD e CI/CD, garantindo que meus projetos sejam escaláveis, robustos e de alta qualidade.
 
 ## Tecnologias
 
