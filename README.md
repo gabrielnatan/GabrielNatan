@@ -1,27 +1,26 @@
-
-<h1 width="100%;" text-align="center;">
-  <img width="100%;" src="./fullstack.png" alt="Imagem de apresentação">
+<h1 align="center">
+  <img width="100%" src="./fullstack.png" alt="Imagem de apresentação">
 </h1>
 
+Olá, amigos! Seja muito bem-vindo ao meu repositório 😎
 
-Olá amigos, tudo bem?! Seja bem vindo ao meu repositório 😎
+## Sobre Mim
 
-## Sobre mim
-
-Como Desenvolvedor Full Stack Pleno, acumulo mais de 3 anos de experiência nesse universo. Sou formado em Análise e Desenvolvimento de Sistemas e tenho habilidades sólidas em tecnologias como React JS, NextJS, VueJS, NestJS, entre outras. Minha abordagem inclui a aplicação de boas práticas de código e arquitetura, como SOLID e Clean Architecture, e estou familiarizado com Design Patterns, Microserviços, TDD, CI/CD e DevOps. Meu objetivo é sempre entregar soluções tecnológicas inovadoras e escaláveis.
-
+Sou Desenvolvedor Full Stack Pleno com mais de 3 anos de experiência, sempre buscando transformar ideias em soluções tecnológicas inovadoras. Formado em Análise e Desenvolvimento de Sistemas, trabalho com um conjunto diversificado de tecnologias e práticas modernas, como React JS, NextJS, VueJS, NestJS, além de abordagens voltadas a DevOps e metodologias ágeis. Adoto princípios sólidos como SOLID, Clean Architecture, Design Patterns, Microserviços, TDD e CI/CD, garantindo que meus projetos sejam escaláveis, robustos e de alta qualidade.
 
 ## Tecnologias
 
-Javascript, Typescript, React JS, Vue JS, Next JS, Node JS, Nest JS, PostgreSQL, MongoDB, SQL, GitHub Actions, GitLab, HTML, CSS.
-
+- **Linguagens:** JavaScript, TypeScript, HTML, CSS  
+- **Front-end:** React JS, NextJS, VueJS  
+- **Back-end:** Node JS, NestJS  
+- **Bancos de Dados:** PostgreSQL, MongoDB, SQL  
+- **DevOps:** GitHub Actions, GitLab
 
 ## Meu Portfólio
 
-https://gabrielnatan.com.br
+Conheça meus projetos e acompanhe minhas soluções em: [gabrielnatan.com.br](https://gabrielnatan.com.br)
 
+## Contato
 
-### 📫 Entre em contato comigo:
-- <a href="https://www.linkedin.com/in/gabriel-souza-3985ba137/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"">
-  </a>  
+Vamos nos conectar!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-3985ba137/)
